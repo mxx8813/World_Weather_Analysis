@@ -1,6 +1,6 @@
 ## World_Weather_Analysis
 
-In this exercise, we will several API sources to build a travel app that allows the customer to defind their temperature preferences, which helps them narrow down on a list of destinations on a map that they are then able to select stops.  They can select mode of travel and Google Maps will mark each stop with the pertinent hotel and curent weather condition to give the user the most up-to-date weather data.
+In this exercise, we will use several API sources to build a travel app that allows the customer to defind their temperature preferences, which helps them narrow down on a list of destinations on a map that they are then able to select stops.  They can select mode of travel and Google Maps will mark each stop with the pertinent hotel and curent weather condition to give the user the most up-to-date weather data.
 
 Here's what we've built:
 1. We use Open Weather API and citipy to generate a list of preferred cities around the world that meets the user's temperature preferences: (ie, 65 - 85 degrees Fahrenheite). (Figure 1)
